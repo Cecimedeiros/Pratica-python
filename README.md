@@ -1,0 +1,1 @@
+Este repositório foi criado com o objetivo de compartilhar meu desenvolvimento na área de fundamentos da programação, com foco, no momento, em python. Portanto, aqui será encontrado a resolução de exercícios utilizando essa linguagem da programação!
